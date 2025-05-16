@@ -23,7 +23,7 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 - Libraries:
   ```bash
   pip install pynput requests
-<p align="LEFT">
+<p align="Center">
   <img src="Screenshots/pynput install.jpg" width="800"/>
 </p>
 
@@ -37,7 +37,7 @@ A simple Python keylogger designed for cybersecurity education and personal lear
     Send /newbot and follow the prompts
 
     Copy your Bot Token
-<p align="center">
+<p align="left">
   <img src="Screenshots/Tele Bot Create.jpg" width="450"/>
 </p>
 
