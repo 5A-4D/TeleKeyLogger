@@ -128,20 +128,3 @@ python keylogger_telegram.py
 🔒 Ethics & Legal Disclaimer
 
 This tool is meant for local use, educational purposes, and authorized testing only. Unauthorized use of keyloggers is illegal in many jurisdictions. Always ensure you have explicit consent before monitoring any input.
-🚀 Future Ideas
-```
-    Add timestamped logging
-
-    Periodic updates to Telegram
-
-    Save logs to local file
-
-    Extend to mouse input
-```
-📚 License
-
-MIT License — feel free to use and adapt with credit.
-👨‍💻 Author
-
-[Zain M]
-Learning Lab Projects – Ethical Hacking and Automation
