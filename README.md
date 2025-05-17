@@ -1,4 +1,4 @@
-# KeyTrack-Lab 🔐
+# TeleKeyLogger 🔐
 
 A simple Python keylogger designed for cybersecurity education and personal learning. This project captures keystrokes locally and sends them to your Telegram account via a bot. Ideal for practicing ethical hacking, input monitoring, and bot-based alerting.
 
@@ -36,7 +36,7 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 
     Send /newbot and follow the prompts
 
-    Copy your Bot Token
+    Find and Copy your Bot Token
 <p align="left">
   <img src="Screenshots/Tele Bot Create.jpg" width="450"/>
 </p>
