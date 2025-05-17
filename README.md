@@ -1,6 +1,6 @@
 # TeleKeyLogger 🔐
 
-A simple Python keylogger designed for cybersecurity education and personal learning. This project captures keystrokes locally and sends them to your Telegram account via a bot. Ideal for practicing ethical hacking, input monitoring, API usage, and bot-based alerting.
+A simple Python keylogger designed for cybersecurity education and personal learning. This project captures keystrokes locally and sends them to a Telegram account via a bot. Ideal for practicing ethical hacking, input monitoring, API usage, and bot-based alerting.
 
 > ⚠️ This tool is for **educational use only**. Never deploy keyloggers without **explicit permission**. Misuse may be illegal.
 
