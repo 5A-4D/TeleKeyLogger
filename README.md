@@ -47,11 +47,11 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 
     Visit the following in your browser:
 
-    https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
+   "https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates"
 
     Look for "chat": {"id": YOUR_CHAT_ID} in the JSON response
 
-<p align="center">
+<p align="Left">
   <img src="Screenshots/Chat ID.jpg" width="250"/>
 </p>
 
