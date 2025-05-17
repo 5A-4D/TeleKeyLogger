@@ -10,7 +10,6 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 
 - Logs all keystrokes in real time
 - Sends keystroke logs to Telegram when stopped
-- Simple, readable Python code
 - Runs 100% locally
 
 ---
