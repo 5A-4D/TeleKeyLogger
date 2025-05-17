@@ -6,7 +6,7 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 
 ---
 
-## 🛠 Features
+## 🔧 Features
 
 - Logs all keystrokes in real time
 - Sends keystroke logs to Telegram when stopped
@@ -29,7 +29,7 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 
 ---
 
-🤖 Setup Instructions
+## 🤖 Setup Instructions
 1. Create a Telegram Bot
 
     Search for @BotFather on Telegram
@@ -56,7 +56,7 @@ A simple Python keylogger designed for cybersecurity education and personal lear
 </p>
 
 
-🧪 Usage
+## 🧪 Usage
 1. Save the script below as keylogger_telegram.py:
 <p align="center">
   <img src="Screenshots/API + Chat ID .jpg" width="500"/>
@@ -125,6 +125,6 @@ python keylogger_telegram.py
   <img src="Screenshots/Mobile Notif.jpg" width="400"/>
 </p>
 
-🔒 Ethics & Legal Disclaimer
+## 🔒 Ethics & Legal Disclaimer
 
 This tool is meant for local use, educational purposes, and authorized testing only. Unauthorized use of keyloggers is illegal in many jurisdictions. Always ensure you have explicit consent before monitoring any input.
